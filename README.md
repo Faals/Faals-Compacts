@@ -15,20 +15,28 @@ Snap!!! and the components hold each other snugglie fit in the Case.
 - [License (MIT)](https://github.com/Faals/Faals-s-Compacts-/edit/main/README.md#license-mit)
 
 ## Components
-- [TP4056](https://docs.slimevr.dev/diy/components-guide.html)
-- [Wemos D1 Mini](https://docs.slimevr.dev/diy/components-guide.html)
-- [50mm straps](https://docs.slimevr.dev/diy/components-guide.html)
-- [MPU 6050](https://docs.slimevr.dev/diy/components-guide.html)
-- [Switch SS22F32](https://docs.slimevr.dev/diy/components-guide.html)
-- [Battery 18650](https://docs.slimevr.dev/diy/components-guide.html)
+|No.|Component|Choice|
+|---|---|---|
+|1|**Microcontroller**|**[Wemos D1 Mini](https://docs.slimevr.dev/diy/components-guide.html)**|
+|2|**Charging Board**|**[TP4056 Type C](https://docs.slimevr.dev/diy/components-guide.html)**|
+|3|**IMU**|**[MPU 6050](https://docs.slimevr.dev/diy/components-guide.html)**|
+|4|**Power Switches**|**[Switch SS22F32](https://docs.slimevr.dev/diy/components-guide.html)**|
+|5|**Batteries**|**[Battery 18650](https://docs.slimevr.dev/diy/components-guide.html)**|
+|6|**Diodes**|**[1N5817 diodes](https://docs.slimevr.dev/diy/components-guide.html)**|
+|7|**Resistors**|**[180K ohm resistors](https://docs.slimevr.dev/diy/components-guide.html)**|
+|8|**Straps**|**[50mm straps](https://docs.slimevr.dev/diy/components-guide.html)**|
 
-50mm straps are recommended you can use some smaller straps tho if you want to.
+
+50mm straps are recommended.
+The Case is only compatible with USB Type C Charging Boards.
+If you are unclear about the Wemos D1 mini version, check the pictures or animations in the [Assembly](https://github.com/Faals/Faals-s-Compacts-/edit/main/README.md#assembly) categorie to verify that you have the right version.
 
 ## Functions
-This is the label system! Sleek, compact, nice looking, and easy to remember. The part that is marked red is the position of the tracker so it is easy to identify, what goes were.
+This is the label system! Sleek, compact, nice looking, and easy to remember. The *red* part indicates the position of the tracker so it is easy to identify, what goes where.
 
 ![function](https://user-images.githubusercontent.com/114385702/192364379-8ae1a264-76ac-4a53-a451-95ca29fc9b63.png)
 
+But of course, this is just a basic idea of how to use it. Let your creativity flow and see how the **X** represents your body.
 ## Assembly
 
 ![compact-exp](https://user-images.githubusercontent.com/114385702/192366826-26f9c090-bd5e-4fd0-91c9-f759078573f2.gif)
@@ -39,7 +47,7 @@ Thank you **Obbie, CakeBlood** and **Soomalia**! for all of your help testing th
 
 ## Contact
 If you have any problems with the Case, feel free to contact me through Discord [Ｆａａｌｓ#9205](https://discord.com/users/yourID) or on the official
-[SlimeVR Discord server](https://discord.com/invite/SlimeVR). If you want to help out/or make your own changes and want to publish them just shoot me a DM over Discord.
+[SlimeVR Discord server](https://discord.com/invite/SlimeVR). If you want to help out/or make your own changes and want to merge them, just shoot me a DM over Discord.
 
 ## License (MIT)
 This project is licensed under the MIT license.
