@@ -55,7 +55,7 @@ For the Cover we have to put the **[Battery 18650](https://docs.slimevr.dev/diy/
 The **[Switch SS22F32](https://docs.slimevr.dev/diy/components-guide.html)** has to be modified a little bit. You have to take the flaps and three pins off. As seen in the picture below.
 
 ![Switch1](https://user-images.githubusercontent.com/114385702/193583352-6aeca6c7-689f-4360-8cb9-ffa840cc533f.png)
-
+## Assambly animation coming soon!!!
 
 
 
