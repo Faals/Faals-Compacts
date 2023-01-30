@@ -62,11 +62,11 @@ The **[Switch SS22F32](https://docs.slimevr.dev/diy/components-guide.html)** has
 ![compact-exp](https://user-images.githubusercontent.com/114385702/192366826-26f9c090-bd5e-4fd0-91c9-f759078573f2.gif)
 
 ## Contributors
-Thank you **Obbie, CakeBlood** and **Soomalia**! for all of your help testing the Case!
+Thank you **Obbie#9968, CakeBlood#1844, deinvater1#6666** and **Soomalia#1384** ! for all of your help testing the Case!
 
 
 ## Contact
-If you have any problems with the Case, feel free to contact me through Discord [Ｆａａｌｓ#9205](https://discord.com/users/yourID) or on the official
+If you have any problems with the Case, feel free to contact me through Discord [PinguOnaTrain#9205](https://discord.com/users/yourID) or on the official
 [SlimeVR Discord server](https://discord.com/invite/SlimeVR). If you want to help out/or make your own changes and want to merge them, just shoot me a DM over Discord.
 
 ## License (MIT)
